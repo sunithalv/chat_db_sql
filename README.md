@@ -1,8 +1,10 @@
 # Chat with MySql DB using Open AI with Lang Chain SQL Agents
-
-
 The goal of the project is to create a QA engine which can take user questions about database,convert to SQL query using the SQL Agent and
 return the corresponding query response in a user readable answer format. Few shot examples are also provided to give sample complex queries.
+Screenshot of the application is as below:
+
+![Screenshot_SQL_QA](https://github.com/sunithalv/chat_db_sql/assets/28974154/4ca1a375-4fff-4dc9-a37f-a0ab63de61ba)
+
 
 ## Tech Used
 1. ChatOpenAI
