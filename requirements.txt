@@ -1,0 +1,13 @@
+langchain
+langchain-core
+langchain-community
+python-dotenv
+streamlit
+streamlit-chat
+langchain_experimental
+langchain-community
+mysql-connector-python
+chromadb
+huggingface_hub 
+llama-cpp-python
+langchain-openai
